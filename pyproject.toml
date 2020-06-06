@@ -6,7 +6,7 @@ authors = ["Yeojin Kim"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-django = "^3.0.6"
+django = "^3.0.7"
 django-grappelli = "^2.14.2"
 
 [tool.poetry.dev-dependencies]
